@@ -1,2 +1,5 @@
 # First-github-project
-This is my first Github repository
+Name: Muhammad Bilal
+Title: Giyhub / Github practice
+Date: 7-Dec-2025
+Purpose: Learn git basic workflow: clone, add, commit, push, branch, PR
